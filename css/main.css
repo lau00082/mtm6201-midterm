@@ -146,7 +146,7 @@
 }
 .menu-container-bg {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(../images/coffee-shop.jpeg);
+    url(../images/coffee-shop.jpg);
   background-position: 0 0, 50%;
   background-size: auto, cover;
 }
@@ -187,21 +187,21 @@
 
 .testimonials-img-one {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(../images/testimonial-1.jpeg);
+    url(../images/testimonial-1.jpg);
   background-position: 50%, 50%;
   background-size: 100%, cover;
   padding: 24rem 1rem 2rem 1rem;
 }
 .testimonials-img-two {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(../images/testimonial-2.jpeg);
+    url(../images/testimonial-2.jpg);
   background-position: 0 0, 0 0;
   background-size: 150%, cover;
   padding: 24rem 1rem 2rem 1rem;
 }
 .testimonials-img-three {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(../images/testimonial-3.jpeg);
+    url(../images/testimonial-3.jpg);
   background-position: 0 0, 0 0;
   background-size: 100%, cover;
   padding: 24rem 1rem 2rem 1rem;
@@ -564,7 +564,7 @@ p {
   }
   .testimonials-img-one {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-      url(../images/testimonial-1.jpeg);
+      url(../images/testimonial-1.jpg);
     background-position: 50%, 50%;
     background-size: 100%, cover;
     padding: 24rem 1rem 2rem 1rem;
@@ -573,7 +573,7 @@ p {
 
   .testimonials-img-two {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-      url(../images/testimonial-2.jpeg);
+      url(../images/testimonial-2.jpg);
     background-position: 50%, 50%;
     background-size: 150%, cover;
     padding: 24rem 1rem 2rem 1rem;
@@ -581,7 +581,7 @@ p {
   }
   .testimonials-img-three {
     background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-      url(../images/testimonial-3.jpeg);
+      url(../images/testimonial-3.jpg);
     background-position: 50%, 50%;
     background-size: 150%, cover;
     padding: 24rem 1rem 2rem 1rem;
